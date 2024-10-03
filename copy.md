@@ -9,9 +9,9 @@
   Code :
 ```
 // Credits;
-- site : sinhalasub.lk
-- code : mr nima
-- npm : mrnima-moviedl
+// - site : sinhalasub.lk
+// - code : mr nima
+// - npm : mrnima-moviedl
 
 const { sinhalaSub } = require("mrnima-moviedl");
 
